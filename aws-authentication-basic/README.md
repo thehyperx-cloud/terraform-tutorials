@@ -22,5 +22,4 @@ vpc_id = "vpc-xxxx11xx378xxxxx"
 ```
 
 [!WARNING]
-
-## Hard-coded credentials are not recommended in any Terraform configuration and risks secret leakage should this file ever be committed to a public version control system.
+Hard-coded credentials are not recommended in any Terraform configuration and risks secret leakage should this file ever be committed to a public version control system.
