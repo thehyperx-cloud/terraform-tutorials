@@ -20,3 +20,7 @@ If you want to know what is id or other details of created resource you can use 
 ```sh
 vpc_id = "vpc-xxxx11xx378xxxxx"
 ```
+
+[!WARNING]
+
+## Hard-coded credentials are not recommended in any Terraform configuration and risks secret leakage should this file ever be committed to a public version control system.
